@@ -1,0 +1,12 @@
+Bem-vindo!
+
+01. Primeiro, abra o arquivo em C "Truco_Doido".
+
+02. Compile o programa movendo o cursor para dentro da IDE e aperte o botão que execute o arquivo.
+
+03. O executável estará na pasta, basta abrí-lo e aproveitar seu programa!
+
+Os participantes desse grupo a agradecem a colaboração!
+
+;]
+
