@@ -18,6 +18,8 @@
 
 - Importante ressaltar que você deverá abrir a .c (obtida após a extração do .zip) em sua IDE e executá-la, após isso na pasta "Truco" você irá obter a .exe (executável) do programa.
 
+- Estará disponível também apenas o código-fonte de nosso programa no repositório, mas o mesmo não irá funcionar de acordo com a proposta, pois é necessário o uso de outros arquivos para garantir o bom funcionamento.
+
 ## Realizadores
 
 - Abaixo estará disponível o link para o GitHub dos desenvolvedores:
